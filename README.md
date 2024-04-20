@@ -11,7 +11,7 @@ You must have the following installed in your computer:
 
 ## 2.a Spinning the application (bash script):
 
-- Clone this repository and navigade into the main directory `Miglioranza-a54d8a`
+- Clone this repository and navigate into the main directory that contains both `frontend` and `backend` folders
 - Open a terminal window on that directory and run
 
 ```
